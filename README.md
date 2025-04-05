@@ -9,7 +9,7 @@ Goto MyTodoApp.java file in src/main/java/com.in28minutes.springboot.myfirstweba
 
 Hit run to start the project
 
-View the project at localhost:8080/login
+View the project at <h3>localhost:8080/login</h3>
 
 (If not working check the port selected by your system to run the project in the terminal. Search this "o.s.b.w.embedded.tomcat.TomcatWebServer : Tomcat initialized with port" ____)
 
